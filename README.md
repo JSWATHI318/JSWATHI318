@@ -40,12 +40,8 @@ I build at the intersection of **classical machine learning, quantum machine lea
 - **[Python Practice](https://github.com/JSWATHI318/python_practice)**
 
 <br>
-## git hub anlysis 
-<p align="center">
-<img src="https://img.shields.io/github/followers/JSWATHI318?style=for-the-badge&color=6D28D9&labelColor=1a103d&label=Followers" />
-</p>
 
-<sub align="center">Stats and Top Languages cards are temporarily unavailable — the public github-readme-stats.vercel.app service they depend on has been paused by its maintainer since January 2026 (see github.com/anuraghazra/github-readme-stats/issues/4737). This follower badge uses shields.io instead, which pulls the same data live from the GitHub API and is unaffected.</sub>
+## GitHub Analytics
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=JSWATHI318&hide_border=true&background=00000000&stroke=6D28D9&ring=6D28D9&fire=6D28D9&currStreakLabel=9CA3AF" />

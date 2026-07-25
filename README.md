@@ -32,62 +32,12 @@ I build at the intersection of **classical machine learning, quantum machine lea
 
 ## Featured Projects
 
-<table>
-<tr><td>
-
-**[Heart Disease Prediction — Classical vs. Quantum ML](https://github.com/JSWATHI318/Heart-Disease-Prediction-Classical-vs-Quantum-ML)**
-<br>![Stars](https://img.shields.io/github/stars/JSWATHI318/Heart-Disease-Prediction-Classical-vs-Quantum-ML?style=flat-square&color=A78BFA&labelColor=1a103d) ![Last Commit](https://img.shields.io/github/last-commit/JSWATHI318/Heart-Disease-Prediction-Classical-vs-Quantum-ML?style=flat-square&color=A78BFA&labelColor=1a103d)
-
-</td></tr>
-<tr><td>
-
-**[Metro Passenger Flow Prediction](https://github.com/JSWATHI318/metro-passenger-flow-prediction)**
-<br>![Stars](https://img.shields.io/github/stars/JSWATHI318/metro-passenger-flow-prediction?style=flat-square&color=A78BFA&labelColor=1a103d) ![Last Commit](https://img.shields.io/github/last-commit/JSWATHI318/metro-passenger-flow-prediction?style=flat-square&color=A78BFA&labelColor=1a103d)
-
-</td></tr>
-<tr><td>
-
-**[Personal Portfolio](https://github.com/JSWATHI318/swathi-portfolio)**
-<br>![Stars](https://img.shields.io/github/stars/JSWATHI318/swathi-portfolio?style=flat-square&color=A78BFA&labelColor=1a103d) ![Last Commit](https://img.shields.io/github/last-commit/JSWATHI318/swathi-portfolio?style=flat-square&color=A78BFA&labelColor=1a103d)
-
-</td></tr>
-<tr><td>
-
-**[Clario Programming Language](https://github.com/JSWATHI318/clario_language)**
-<br>![Stars](https://img.shields.io/github/stars/JSWATHI318/clario_language?style=flat-square&color=A78BFA&labelColor=1a103d) ![Last Commit](https://img.shields.io/github/last-commit/JSWATHI318/clario_language?style=flat-square&color=A78BFA&labelColor=1a103d)
-
-</td></tr>
-<tr><td>
-
-**[Web Technologies](https://github.com/JSWATHI318/Web-Technologies)**
-<br>![Stars](https://img.shields.io/github/stars/JSWATHI318/Web-Technologies?style=flat-square&color=A78BFA&labelColor=1a103d) ![Last Commit](https://img.shields.io/github/last-commit/JSWATHI318/Web-Technologies?style=flat-square&color=A78BFA&labelColor=1a103d)
-
-</td></tr>
-<tr><td>
-
-**[Python Practice](https://github.com/JSWATHI318/python_practice)**
-<br>![Stars](https://img.shields.io/github/stars/JSWATHI318/python_practice?style=flat-square&color=A78BFA&labelColor=1a103d) ![Last Commit](https://img.shields.io/github/last-commit/JSWATHI318/python_practice?style=flat-square&color=A78BFA&labelColor=1a103d)
-
-</td></tr>
-</table>
-
-<br>
-
-## GitHub Analytics
-
-<p align="center">
-<img src="https://img.shields.io/github/followers/JSWATHI318?style=for-the-badge&color=6D28D9&labelColor=1a103d&label=Followers" />
-</p>
-
-<sub align="center">Stats and Top Languages cards are temporarily unavailable — the public github-readme-stats.vercel.app service they depend on has been paused by its maintainer since January 2026 (see github.com/anuraghazra/github-readme-stats/issues/4737). This follower badge uses shields.io instead, which pulls the same data live from the GitHub API and is unaffected.</sub>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=JSWATHI318&hide_border=true&background=00000000&stroke=6D28D9&ring=6D28D9&fire=6D28D9&currStreakLabel=9CA3AF" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JSWATHI318&color=6D28D9&line=6D28D9&point=9CA3AF&hide_border=true&bg_color=00000000" width="100%" />
-</p>
+- **[Heart Disease Prediction — Classical vs. Quantum ML](https://github.com/JSWATHI318/Heart-Disease-Prediction-Classical-vs-Quantum-ML)**
+- **[Metro Passenger Flow Prediction](https://github.com/JSWATHI318/metro-passenger-flow-prediction)**
+- **[Personal Portfolio](https://github.com/JSWATHI318/swathi-portfolio)**
+- **[Clario Programming Language](https://github.com/JSWATHI318/clario_language)**
+- **[Web Technologies](https://github.com/JSWATHI318/Web-Technologies)**
+- **[Python Practice](https://github.com/JSWATHI318/python_practice)**
 
 <br>
 

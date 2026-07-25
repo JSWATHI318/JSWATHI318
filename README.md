@@ -43,10 +43,7 @@ I build at the intersection of **classical machine learning, quantum machine lea
 
 ## GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=JSWATHI318&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=A78BFA&text_color=9CA3AF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSWATHI318&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=9CA3AF" width="49%" />
-
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=JSWATHI318&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=A78BFA&text_color=9CA3AF" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSWATHI318&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=9CA3AF" width="49%" /> <br>
 
 ## Contact
 

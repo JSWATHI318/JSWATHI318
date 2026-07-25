@@ -85,7 +85,7 @@ Right now I'm deepening my quantum machine learning work, building on the Qiskit
 <img src="https://github-readme-stats.vercel.app/api?username=JSWATHI318&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=A78BFA&text_color=9CA3AF" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSWATHI318&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=9CA3AF" width="49%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JSWATHI318&hide_border=true&background=00000000&stroke=A78BFA&ring=A78BFA&fire=A78BFA&currStreakLabel=C4B5FD" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=JSWATHI318&hide_border=true&background=00000000&stroke=A78BFA&ring=A78BFA&fire=A78BFA&currStreakLabel=C4B5FD" width="100%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JSWATHI318&color=A78BFA&line=A78BFA&point=E9D5FF&hide_border=true&bg_color=00000000" width="100%" />
 

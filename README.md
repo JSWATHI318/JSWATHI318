@@ -32,18 +32,54 @@ I build at the intersection of **classical machine learning, quantum machine lea
 
 ## Featured Projects
 
-<a href="https://github.com/JSWATHI318/Heart-Disease-Prediction-Classical-vs-Quantum-ML"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JSWATHI318&repo=Heart-Disease-Prediction-Classical-vs-Quantum-ML&theme=radical&bg_color=1a103d&title_color=C4B5FD&text_color=9CA3AF&icon_color=A78BFA&border_color=3b1f6e" width="49%" /></a>
-<a href="https://github.com/JSWATHI318/metro-passenger-flow-prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JSWATHI318&repo=metro-passenger-flow-prediction&theme=radical&bg_color=1a103d&title_color=C4B5FD&text_color=9CA3AF&icon_color=A78BFA&border_color=3b1f6e" width="49%" /></a>
-<a href="https://github.com/JSWATHI318/swathi-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JSWATHI318&repo=swathi-portfolio&theme=radical&bg_color=1a103d&title_color=C4B5FD&text_color=9CA3AF&icon_color=A78BFA&border_color=3b1f6e" width="49%" /></a>
-<a href="https://github.com/JSWATHI318/clario_language"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JSWATHI318&repo=clario_language&theme=radical&bg_color=1a103d&title_color=C4B5FD&text_color=9CA3AF&icon_color=A78BFA&border_color=3b1f6e" width="49%" /></a>
-<a href="https://github.com/JSWATHI318/Web-Technologies"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JSWATHI318&repo=Web-Technologies&theme=radical&bg_color=1a103d&title_color=C4B5FD&text_color=9CA3AF&icon_color=A78BFA&border_color=3b1f6e" width="49%" /></a>
-<a href="https://github.com/JSWATHI318/python_practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JSWATHI318&repo=python_practice&theme=radical&bg_color=1a103d&title_color=C4B5FD&text_color=9CA3AF&icon_color=A78BFA&border_color=3b1f6e" width="49%" /></a>
+<table>
+<tr><td>
+
+**[Heart Disease Prediction — Classical vs. Quantum ML](https://github.com/JSWATHI318/Heart-Disease-Prediction-Classical-vs-Quantum-ML)**
+<br>![Stars](https://img.shields.io/github/stars/JSWATHI318/Heart-Disease-Prediction-Classical-vs-Quantum-ML?style=flat-square&color=A78BFA&labelColor=1a103d) ![Last Commit](https://img.shields.io/github/last-commit/JSWATHI318/Heart-Disease-Prediction-Classical-vs-Quantum-ML?style=flat-square&color=A78BFA&labelColor=1a103d)
+
+</td></tr>
+<tr><td>
+
+**[Metro Passenger Flow Prediction](https://github.com/JSWATHI318/metro-passenger-flow-prediction)**
+<br>![Stars](https://img.shields.io/github/stars/JSWATHI318/metro-passenger-flow-prediction?style=flat-square&color=A78BFA&labelColor=1a103d) ![Last Commit](https://img.shields.io/github/last-commit/JSWATHI318/metro-passenger-flow-prediction?style=flat-square&color=A78BFA&labelColor=1a103d)
+
+</td></tr>
+<tr><td>
+
+**[Personal Portfolio](https://github.com/JSWATHI318/swathi-portfolio)**
+<br>![Stars](https://img.shields.io/github/stars/JSWATHI318/swathi-portfolio?style=flat-square&color=A78BFA&labelColor=1a103d) ![Last Commit](https://img.shields.io/github/last-commit/JSWATHI318/swathi-portfolio?style=flat-square&color=A78BFA&labelColor=1a103d)
+
+</td></tr>
+<tr><td>
+
+**[Clario Programming Language](https://github.com/JSWATHI318/clario_language)**
+<br>![Stars](https://img.shields.io/github/stars/JSWATHI318/clario_language?style=flat-square&color=A78BFA&labelColor=1a103d) ![Last Commit](https://img.shields.io/github/last-commit/JSWATHI318/clario_language?style=flat-square&color=A78BFA&labelColor=1a103d)
+
+</td></tr>
+<tr><td>
+
+**[Web Technologies](https://github.com/JSWATHI318/Web-Technologies)**
+<br>![Stars](https://img.shields.io/github/stars/JSWATHI318/Web-Technologies?style=flat-square&color=A78BFA&labelColor=1a103d) ![Last Commit](https://img.shields.io/github/last-commit/JSWATHI318/Web-Technologies?style=flat-square&color=A78BFA&labelColor=1a103d)
+
+</td></tr>
+<tr><td>
+
+**[Python Practice](https://github.com/JSWATHI318/python_practice)**
+<br>![Stars](https://img.shields.io/github/stars/JSWATHI318/python_practice?style=flat-square&color=A78BFA&labelColor=1a103d) ![Last Commit](https://img.shields.io/github/last-commit/JSWATHI318/python_practice?style=flat-square&color=A78BFA&labelColor=1a103d)
+
+</td></tr>
+</table>
 
 <br>
 
 ## GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=JSWATHI318&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=A78BFA&text_color=9CA3AF" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSWATHI318&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=9CA3AF" width="49%" /> <br>
+<img src="https://img.shields.io/github/followers/JSWATHI318?style=for-the-badge&color=A78BFA&labelColor=1a103d&label=Followers" />
+
+<sub>Full stats/top-languages cards are temporarily unavailable — the public github-readme-stats.vercel.app service they depend on has been paused by its maintainer since January 2026 (confirmed via the project's own issue tracker). This badge uses shields.io instead, which is unaffected and pulls live from the GitHub API.</sub>
+
+<br>
 
 ## Contact
 

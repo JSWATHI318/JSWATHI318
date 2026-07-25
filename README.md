@@ -75,9 +75,19 @@ I build at the intersection of **classical machine learning, quantum machine lea
 
 ## GitHub Analytics
 
-<img src="https://img.shields.io/github/followers/JSWATHI318?style=for-the-badge&color=A78BFA&labelColor=1a103d&label=Followers" />
+<p align="center">
+<img src="https://img.shields.io/github/followers/JSWATHI318?style=for-the-badge&color=6D28D9&labelColor=1a103d&label=Followers" />
+</p>
 
-<sub>Full stats/top-languages cards are temporarily unavailable — the public github-readme-stats.vercel.app service they depend on has been paused by its maintainer since January 2026 (confirmed via the project's own issue tracker). This badge uses shields.io instead, which is unaffected and pulls live from the GitHub API.</sub>
+<sub align="center">Stats and Top Languages cards are temporarily unavailable — the public github-readme-stats.vercel.app service they depend on has been paused by its maintainer since January 2026 (see github.com/anuraghazra/github-readme-stats/issues/4737). This follower badge uses shields.io instead, which pulls the same data live from the GitHub API and is unaffected.</sub>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=JSWATHI318&hide_border=true&background=00000000&stroke=6D28D9&ring=6D28D9&fire=6D28D9&currStreakLabel=9CA3AF" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JSWATHI318&color=6D28D9&line=6D28D9&point=9CA3AF&hide_border=true&bg_color=00000000" width="100%" />
+</p>
 
 <br>
 
